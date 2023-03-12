@@ -1,0 +1,18 @@
+jack_ryan:
+  name: Jack Ryan
+  email: jackryan@email.com
+  twitter: https://twitter.com/jackryan
+  bio: Jack Ryan is a bestselling author of political thrillers, including The Hunt for Red October and Patriot Games. He also served as a CIA analyst and worked in the private sector as a financial advisor. He lives with his family in Maryland.
+  image: https://example.com/jackryan.jpg
+dierdre_mccuskey:
+  name: Dierdre McCluskey
+  email: dierdre@email.com
+  twitter: https://twitter.com/dierdre
+  bio: Dierdre McCluskey is a software engineer who is passionate about building accessible and inclusive technology. She is an active member of several open source communities and has spoken at conferences around the world. In her free time, she enjoys hiking and playing board games.
+  image: https://example.com/dierdre.jpg
+marcus_aurelius:
+  name: Marcus Aurelius
+  email: marcus@email.com
+  twitter: https://twitter.com/marcus
+  bio: Marcus Aurelius was a Roman emperor and philosopher who is best known for his book Meditations. He believed in the importance of self-reflection and stoicism, and his writings continue to influence people today. He died in 180 AD.
+  image: https://example.com/marcus.jpg
