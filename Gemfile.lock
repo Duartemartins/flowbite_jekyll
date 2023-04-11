@@ -31,6 +31,9 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-auto-authors (1.0.2)
+      jekyll (>= 3.0.0)
+      jekyll-paginate-v2 (>= 3.0.0)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-postcss (0.5.0)
@@ -73,6 +76,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-auto-authors
   jekyll-paginate-v2
   jekyll-postcss
   jekyll-seo-tag

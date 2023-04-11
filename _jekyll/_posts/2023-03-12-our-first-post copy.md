@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll!"
 tag: "Tutorial"
-author: dierdre_mccluskey
+author: deirdre_mccluskey
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce accumsan tellus nec lectus volutpat, id rhoncus odio consequat. Sed porta euismod velit, vel bibendum erat ultrices a. Ut malesuada purus eget nisl pellentesque, sed venenatis est molestie. Quisque lacinia, eros quis laoreet lobortis, purus metus tempor massa, nec commodo ante metus nec diam. Integer mollis volutpat magna ac pellentesque. Sed tristique enim nec ipsum volutpat, vel rutrum risus malesuada. Vestibulum ac arcu nec lorem feugiat commodo sed vel nibh. Maecenas bibendum nunc mauris, vel vestibulum purus aliquet vel.
