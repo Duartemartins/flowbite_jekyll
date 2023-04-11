@@ -10,6 +10,7 @@
 </head>
 
 <body>
+  {% include header.html %}
   <section class="bg-white dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
       <div class="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
@@ -48,7 +49,7 @@
                 src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
                 alt="Jese Leos avatar" />
               <span class="font-medium dark:text-white">
-                Jese Leos
+                {{post.author}}
               </span>
             </div>
             <a href="{{ post.url }}"

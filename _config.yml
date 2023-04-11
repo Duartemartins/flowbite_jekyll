@@ -1,9 +1,15 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+source: _jekyll
+destination: _site
+# baseurl: /blog
 title: "" # the name of your site, e.g. ACME Corp.
+# index_file: index.html
 plugins:
   - jekyll-postcss
   - jekyll-timeago
+  - jekyll-paginate-v2
+
+# permalink: /blog/:year/:month/:day/:title/
 
 postcss:
   cache: false

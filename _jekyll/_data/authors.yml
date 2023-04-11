@@ -4,12 +4,12 @@ jack_ryan:
   twitter: https://twitter.com/jackryan
   bio: Jack Ryan is a bestselling author of political thrillers, including The Hunt for Red October and Patriot Games. He also served as a CIA analyst and worked in the private sector as a financial advisor. He lives with his family in Maryland.
   image: https://example.com/jackryan.jpg
-dierdre_mccuskey:
-  name: Dierdre McCluskey
+deirdre_mccluskey:
+  name: Deirdre McCluskey
   email: dierdre@email.com
-  twitter: https://twitter.com/dierdre
+  twitter: https://twitter.com/deirdre
   bio: Dierdre McCluskey is a software engineer who is passionate about building accessible and inclusive technology. She is an active member of several open source communities and has spoken at conferences around the world. In her free time, she enjoys hiking and playing board games.
-  image: https://example.com/dierdre.jpg
+  image: https://example.com/deirdre.jpg
 marcus_aurelius:
   name: Marcus Aurelius
   email: marcus@email.com

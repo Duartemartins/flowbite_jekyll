@@ -1,11 +1,30 @@
 {
-  "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "cssnano": "^5.1.15",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.7"
+  "name": "deepdivedata",
+  "version": "1.0.0",
+  "description": "This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library that you can use for your project.",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duartemartins/flowbite_jekyll.git"
+  },
+  "keywords": [
+    "jekyll",
+    "npm",
+    "package"
+  ],
+  "author": "DMartins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Duartemartins/flowbite_jekyll/issues"
+  },
+  "homepage": "https://github.com/Duartemartins/flowbite_jekyll#readme",
   "dependencies": {
-    "flowbite": "^1.6.4"
+    "autoprefixer": "^10.4.14",
+    "flowbite": "^1.6.5",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1"
   }
 }
