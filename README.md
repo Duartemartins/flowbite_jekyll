@@ -6,10 +6,10 @@ The template also features Jekyll's authors functionality, allowing you to manag
 
 ## Features
 
-    - Responsive design with Flowbite and Tailwind CSS
-    - Home page, blog page, and individual blog posts
-    - Jekyll Authors integration for managing author information
-    - Ideal for validating products and creating SEO content
+- Responsive design with Flowbite and Tailwind CSS
+- Home page, blog page, and individual blog posts
+- Jekyll Authors integration for managing author information
+- Ideal for validating products and creating SEO content
 
 ## How to Use
 
