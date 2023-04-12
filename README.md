@@ -1,14 +1,8 @@
 # Flowbite Jekyll Starter Template
 
-## Tailwind CSS Landing Page
-
-This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library that you can use for your project.
-
-## Flowbite Jekyll Screenshot
-
 This Jekyll starter template is designed to help you quickly create a website with a modern and responsive design, using the power of Flowbite and Tailwind CSS. It includes a pre-designed home page, blog page, and individual blog posts, making it ideal for validating products and quickly creating SEO content.
 
-The template also features Jekyll Authors, allowing you to manage author information in the \_data folder and easily attribute posts to different authors.
+The template also features Jekyll's authors functionality, allowing you to manage author information in the \_data folder and easily attribute posts to different authors.
 
 ## Features
 
@@ -64,6 +58,8 @@ This Flowbite Jekyll starter template is perfect for anyone who wants to:
 By using this template, you can save time and effort in creating a website, and focus on your product development and content creation.
 
 ## Built with Flowbite Blocks
+
+This repository is an example of a responsive landing page built with [Flowbite Blocks](https://flowbite.com/blocks/) based on the Tailwind CSS framework and Flowbite library that you can use for your project.
 
 Get started with a huge collection of over 120+ website sections powered by Tailwind CSS and the Flowbite Library:
 
