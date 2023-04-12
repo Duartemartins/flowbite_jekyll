@@ -42,10 +42,10 @@ Open your browser and navigate to http://localhost:4000.
 
 ### Customizing the Template
 
-    To customize the home page, edit the index.html file.
-    To add or modify blog posts, use the _posts folder. The file names should follow the format YYYY-MM-DD-title.md or YYYY-MM-DD-title.markdown.
-    To edit author information, modify the authors.yml file in the _data folder. You can add or remove authors as needed.
-    To change the website's appearance or add custom CSS, edit the main.css file in the assets/css folder.
+1. To customize the home page, edit the index.html file.
+2. To add or modify blog posts, use the _posts folder. The file names should follow the format YYYY-MM-DD-title.md or YYYY-MM-DD-title.markdown.
+3. To edit author information, modify the authors.yml file in the _data folder. You can add or remove authors as needed.
+4. To change the website's appearance or add custom CSS, edit the main.css file in the assets/css folder.
 
 ## Benefits
 
@@ -69,9 +69,10 @@ Get started with a huge collection of over 120+ website sections powered by Tail
 
 ## Screenshots
 
-![Screenshot 2023-04-12 at 18-37-05 Tailwind CSS Landing Page](https://user-images.githubusercontent.com/15674069/231555499-fe199fc8-d014-4fc3-8b66-fcf791dc2bd2.png)
+![Screenshot 2023-04-12 at 19 49 48](https://user-images.githubusercontent.com/15674069/231556380-7f4cbfea-b604-4ad5-a167-b981cd08711b.png)
 
-![Screenshot 2023-04-12 at 18-47-36 -](https://user-images.githubusercontent.com/15674069/231555619-d749e1df-df60-4b4d-8410-a9bf888365eb.png)
+<img width="1025" alt="Screenshot 2023-04-12 at 19 49 07" src="https://user-images.githubusercontent.com/15674069/231556441-ce472e51-6352-4a97-8a44-435e91f0d3d1.png">
+
 
 ## Live preview
 
