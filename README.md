@@ -69,7 +69,9 @@ Get started with a huge collection of over 120+ website sections powered by Tail
 
 ## Screenshots
 
-<a href="[http://google.com.au/](https://themesberg.github.io/tailwind-landing-page/)" rel="some text">![Tailwind CSS Landing Page Demo - Flowbite](https://flowbite.s3.amazonaws.com/github/screenshot.png)</a>
+![Screenshot 2023-04-12 at 18-37-05 Tailwind CSS Landing Page](https://user-images.githubusercontent.com/15674069/231555499-fe199fc8-d014-4fc3-8b66-fcf791dc2bd2.png)
+
+![Screenshot 2023-04-12 at 18-47-36 -](https://user-images.githubusercontent.com/15674069/231555619-d749e1df-df60-4b4d-8410-a9bf888365eb.png)
 
 ## Live preview
 
