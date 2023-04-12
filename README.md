@@ -69,7 +69,7 @@ Get started with a huge collection of over 120+ website sections powered by Tail
 
 ## Screenshots
 
-![Screenshot 2023-04-12 at 19 49 48](https://user-images.githubusercontent.com/15674069/231556380-7f4cbfea-b604-4ad5-a167-b981cd08711b.png)
+<img width="1025" alt="Screenshot 2023-04-12 at 19 49 07" src="https://user-images.githubusercontent.com/15674069/231556380-7f4cbfea-b604-4ad5-a167-b981cd08711b.png"
 
 <img width="1025" alt="Screenshot 2023-04-12 at 19 49 07" src="https://user-images.githubusercontent.com/15674069/231556441-ce472e51-6352-4a97-8a44-435e91f0d3d1.png">
 
